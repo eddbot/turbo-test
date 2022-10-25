@@ -1,24 +1,6 @@
-# README
+# Turbo Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a __really__ simple app to try out hotwire/turbo
 
-Things you may want to cover:
+https://user-images.githubusercontent.com/42304980/197867698-e4d081a0-7a02-4be7-864d-25290c7f19b1.mov
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
